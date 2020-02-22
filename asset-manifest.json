@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ricardobayes.github.io/reactCRUDApp/static/css/main.80a33dc6.chunk.css",
-    "main.js": "/ricardobayes.github.io/reactCRUDApp/static/js/main.4f2e8a57.chunk.js",
-    "main.js.map": "/ricardobayes.github.io/reactCRUDApp/static/js/main.4f2e8a57.chunk.js.map",
-    "runtime-main.js": "/ricardobayes.github.io/reactCRUDApp/static/js/runtime-main.bbef560a.js",
-    "runtime-main.js.map": "/ricardobayes.github.io/reactCRUDApp/static/js/runtime-main.bbef560a.js.map",
-    "static/js/2.85a6ac40.chunk.js": "/ricardobayes.github.io/reactCRUDApp/static/js/2.85a6ac40.chunk.js",
-    "static/js/2.85a6ac40.chunk.js.map": "/ricardobayes.github.io/reactCRUDApp/static/js/2.85a6ac40.chunk.js.map",
-    "index.html": "/ricardobayes.github.io/reactCRUDApp/index.html",
-    "precache-manifest.8578151ef8f2a40a2a8ab74bca3ad714.js": "/ricardobayes.github.io/reactCRUDApp/precache-manifest.8578151ef8f2a40a2a8ab74bca3ad714.js",
-    "service-worker.js": "/ricardobayes.github.io/reactCRUDApp/service-worker.js",
-    "static/css/main.80a33dc6.chunk.css.map": "/ricardobayes.github.io/reactCRUDApp/static/css/main.80a33dc6.chunk.css.map",
-    "static/js/2.85a6ac40.chunk.js.LICENSE.txt": "/ricardobayes.github.io/reactCRUDApp/static/js/2.85a6ac40.chunk.js.LICENSE.txt"
+    "main.css": "/reactCRUDApp/static/css/main.80a33dc6.chunk.css",
+    "main.js": "/reactCRUDApp/static/js/main.25f8ad06.chunk.js",
+    "main.js.map": "/reactCRUDApp/static/js/main.25f8ad06.chunk.js.map",
+    "runtime-main.js": "/reactCRUDApp/static/js/runtime-main.8dd0d3ca.js",
+    "runtime-main.js.map": "/reactCRUDApp/static/js/runtime-main.8dd0d3ca.js.map",
+    "static/js/2.85a6ac40.chunk.js": "/reactCRUDApp/static/js/2.85a6ac40.chunk.js",
+    "static/js/2.85a6ac40.chunk.js.map": "/reactCRUDApp/static/js/2.85a6ac40.chunk.js.map",
+    "index.html": "/reactCRUDApp/index.html",
+    "precache-manifest.dd3f4d2abf466d4c5989ef9ca3a76387.js": "/reactCRUDApp/precache-manifest.dd3f4d2abf466d4c5989ef9ca3a76387.js",
+    "service-worker.js": "/reactCRUDApp/service-worker.js",
+    "static/css/main.80a33dc6.chunk.css.map": "/reactCRUDApp/static/css/main.80a33dc6.chunk.css.map",
+    "static/js/2.85a6ac40.chunk.js.LICENSE.txt": "/reactCRUDApp/static/js/2.85a6ac40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbef560a.js",
+    "static/js/runtime-main.8dd0d3ca.js",
     "static/js/2.85a6ac40.chunk.js",
     "static/css/main.80a33dc6.chunk.css",
-    "static/js/main.4f2e8a57.chunk.js"
+    "static/js/main.25f8ad06.chunk.js"
   ]
 }

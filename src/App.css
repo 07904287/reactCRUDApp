@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+
+.topnav {
+  background-color: #0366EE;
+  overflow: hidden;
+  border-radius: 4px;
+  font-weight: 600;
+  
+}
+
+.topnav .navMenuItem {
+  float: left;
+  border-radius: 4px;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav .navMenuItem:hover {
+  background-color: #b3c7d6ff;
+  color: black;
+}
+
+.topnav .navMenuItem:active {
+  background-color: #eea47fff;
+  color: #00539cff;
+}
+
+.topnav .navMenuItem:focus {
+  background-color: #00539cff;
+  color: #eea47fff;
+}
+
+.asyncSelect{
+  margin-bottom: 25px;
+}

@@ -1,14 +1,16 @@
 Frontend in React for listing, updating and deleting entries through a REST JSON API.
 
-![Departments page](https://github.com/ricardobayes/reactCRUDApp/blob/master/capture1.JPG)
-
-![Employees page](https://github.com/ricardobayes/reactCRUDApp/blob/master/capture2.JPG)
-
-How to run this repo:
+How to run this repo:<br/>
+```
 git clone https://github.com/ricardobayes/reactCRUDApp.git
 cd reactCRUDApp
 npm install
 npm start
+```
+
+![Departments page](https://github.com/ricardobayes/reactCRUDApp/blob/master/capture1.JPG)
+
+![Employees page](https://github.com/ricardobayes/reactCRUDApp/blob/master/capture2.JPG)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
